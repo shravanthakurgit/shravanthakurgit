@@ -1,5 +1,5 @@
 
-# Shravan Thakur
+# Hey, I'm Shravan
 
 **Full Stack Developer · Software Engineer · Cloud & Infrastructure**
 
@@ -46,46 +46,43 @@ JWT · Role-based access control · API security · Environment management
   <tr>
     <td><b>Languages</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,dart,html,css&theme=dark" height="28"/>
+      <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,dart,html,css&theme=dark" height="20"/>
     </td>
   </tr>
   <tr>
     <td><b>Frontend & Web</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,redux&theme=dark" height="28"/>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,redux&theme=dark" height="20"/>
     </td>
   </tr>
   <tr>
     <td><b>Backend & Databases</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,appwrite&theme=dark" height="28"/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,appwrite&theme=dark" height="20"/>
     </td>
   </tr>
   <tr>
     <td><b>Mobile Development</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark" height="28"/>
+      <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark" height="20"/>
     </td>
   </tr>
   <tr>
     <td><b>Cloud & Infrastructure</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=aws,linux,ubuntu,nginx,docker,githubactions,vercel,netlify&theme=dark" height="28"/>
+      <img src="https://skillicons.dev/icons?i=aws,linux,ubuntu,nginx,docker,githubactions,vercel,netlify&theme=dark" height="20"/>
     </td>
   </tr>
   <tr>
     <td><b>Tools & Workflow</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma&theme=dark" height="28"/>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma&theme=dark" height="20"/>
     </td>
   </tr>
 </table>
 
 
 ## 04 / GitHub Overview
-
-<img src="https://github-readme-stats.vercel.app/api?username=shravanthakurgit&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=818CF8&text_color=C9D1D9" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanthakurgit&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9" height="165" alt="Most Used Languages"/>
 
 <img src="https://streak-stats.demolab.com?user=shravanthakurgit&theme=github-dark-blue&hide_border=true&background=0D1117&ring=818CF8&fire=A78BFA&currStreakLabel=818CF8" height="165" alt="GitHub Streak"/>
 
@@ -95,12 +92,5 @@ JWT · Role-based access control · API security · Environment management
 
 ![Contribution Snake](https://raw.githubusercontent.com/shravanthakurgit/shravanthakurgit/output/github-contribution-grid-snake-dark.svg)
 
----
-
-## 06 / GitHub Achievements
-
-![GitHub Trophies](https://github-profile-trophy-kannan.vercel.app/?username=shravanthakurgit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1)
-
----
 
 <sub>© Shravan Thakur · Software Engineering · System Design · Cloud Infrastructure</sub>
