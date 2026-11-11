@@ -1,28 +1,103 @@
-# About Me:
-Hlw 👋 I'm Shravan
+# Shravan Thakur
 
+**Full Stack Developer · Software Engineer · Cloud & Infrastructure**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shravan-thakur) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shrawankumar0147@gmail.com) 
+System Design · Backend Engineering · Frontend Development · Flutter · AWS · Production Deployment · Application Security
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shravanthakurgit&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shravanthakurgit&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shravanthakurgit&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shravanthakur.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shravan-thakur)
+[![Email](https://img.shields.io/badge/Email-Contact-20232A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrawankumar0147@gmail.com)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shravanthakurgit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
+![Profile Views](https://komarev.com/ghpvc/?username=shravanthakurgit&style=flat-square&color=6366F1&label=Profile+Views)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shravanthakurgit&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 01 / About
+
+I'm **Shravan Thakur**, a Full Stack Developer working across web applications, mobile development, backend systems, and cloud infrastructure.
+
+My focus is on building maintainable, secure, and scalable applications, from system architecture and API development to infrastructure configuration and production deployment.
+
+**Core areas**
+
+`System Design` · `Backend` · `Frontend` · `Flutter` · `AWS` · `DevOps` · `Security`
+
+---
+
+## 02 / Engineering Expertise
+
+| Domain | Focus |
+| :--- | :--- |
+| **System Design** | Software architecture, scalability, database design, API architecture |
+| **Backend Engineering** | Node.js, Express.js, REST APIs, authentication, business logic |
+| **Frontend Engineering** | React, Next.js, reusable components, performance optimization |
+| **Mobile Development** | Flutter, Dart, cross-platform applications |
+| **Cloud Engineering** | AWS, EC2, Linux servers, application hosting |
+| **Production Deployment** | Nginx, environment configuration, CI/CD, server management |
+| **Application Security** | JWT, access control, API protection, secure configuration |
+
+---
+
+## 03 / Technology Stack
+
+### Languages
+
+![Skills](https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,dart,html,css&theme=dark)
+
+### Frontend & Web
+
+![Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,redux&theme=dark)
+
+### Backend & Databases
+
+![Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,appwrite&theme=dark)
+
+### Mobile Development
+
+![Skills](https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark)
+
+### Cloud & Infrastructure
+
+![Skills](https://skillicons.dev/icons?i=aws,linux,ubuntu,nginx,docker,githubactions,vercel,netlify&theme=dark)
+
+### Tools & Workflow
+
+![Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma&theme=dark)
+
+---
+
+## 04 / GitHub Overview
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shravanthakurgit&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=818CF8&text_color=C9D1D9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shravanthakurgit&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=shravanthakurgit&theme=github-dark-blue&hide_border=true&background=0D1117&ring=818CF8&fire=A78BFA&currStreakLabel=818CF8)
+
+---
+
+## 05 / Contribution Activity
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shravanthakurgit&bg_color=0D1117&color=818CF8&line=818CF8&point=FFFFFF&area=true&hide_border=true)
+
+### Contribution Snake
+
+![Contribution Snake](https://raw.githubusercontent.com/shravanthakurgit/shravanthakurgit/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+## 06 / GitHub Achievements
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shravanthakurgit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1)
+
+---
+
+## 07 / Connect
+
+For development projects, technical collaborations, or engineering opportunities:
+
+**[Portfolio](https://shravanthakur.netlify.app)** · **[LinkedIn](https://linkedin.com/in/shravan-thakur)** · **[GitHub](https://github.com/shravanthakurgit)** · **[Email](mailto:shrawankumar0147@gmail.com)**
+
+---
+
+*Shravan Thakur — Full Stack Development · System Design · Cloud Engineering*
