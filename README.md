@@ -1,5 +1,5 @@
 
-# Hey, I'm Shravan
+# Hey, I'm Shravan 
 
 **Full Stack Developer · Software Engineer · Cloud & Infrastructure**
 
@@ -11,6 +11,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shravanthakurgit)
 
 ---
+
+# Worked On 45+ Projects
 
 ## 01 / About
 
